@@ -1,8 +1,8 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# Hs-Developer next JS Resume Starter Pack and Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![Hs-Developer  Portfolio ](resume-screenshot.jpg?raw=true "Hs-Developer  Portfolio  ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="https://resume-psi-eight.vercel.app/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
@@ -16,7 +16,7 @@ Firstly, you will need to download the latest version of Node by <a href="https:
 
 Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
 
-```git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git```
+```git clone https://github.com/hussainsofiia```
 
 ## 3. Install Dependancies
 
