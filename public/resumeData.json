@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Sarwar Hussain",
+    "occupation": "CEO of Hs-Developer",
+    "description": "I eat, sleep and breathe React/Next.Js",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sarwar! You might also know me as Hs-Developer. I've been coding for over 3 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming company. With this passion & with faster services along with lowest cost ",
+    "contactmessage": "Get in touch with me to be a part of the Hs-Developer!",
+    "email": "hs.developer.pt@gmail.com",
+    "phone": "+88 01737402272",
+    "address": {
+      "street": "NizSattish",
+      "city": "Sylhet",
+      "state": "Sylhet",
+      "zip": "3116"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCEVXUniIKLcQ8DGsyNucLmQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/hs.developer.bd",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sarwar-hussain-dinar-925390212",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sarwarhussainbd/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/hussainsofiia",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Malvern International Academy",
+        "degree": "Bachelor of Business (DBS)",
+        "graduated": "July 2017",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "HS-Developer",
+        "title": "Founder and CEO",
+        "years": "May 2021 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the Hs-Developer as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "NextJs",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Facebook Clone (React/Next JS)",
+        "category": "",
+        "image": "facebook.jpg",
+        "url": "https://facebook-hazel.vercel.app/"
+      },
+      {
+        "title": "eCommerece (Next JS)",
+        "category": "",
+        "image": "next.jpg",
+        "url": "https://youtu.be/b7nrXjS6Dqs"
+      },
+      {
+        "title": "eCommerece Clone 2 (Next JS)",
+        "category": "",
+        "image": "12_preveiw.png",
+        "url": "https://demo-eshop.vercel.app/"
+      },
+      {
+        "title": "eCommerece Clone 3 (Next JS)",
+        "category": "",
+        "image": "next12.jpg",
+        "url": "https://clever-cori-ef64ef.netlify.app/"
+      },
+      {
+        "title": "eCommerece Clone 4 (Next JS)",
+        "category": "",
+        "image": "ec.png",
+        "url": "https://elegant-lamport-3c7880.netlify.app/"
+      },
+      {
+        "title": "admin Clone 2 (Next JS)",
+        "category": "",
+        "image": "admin.jpg",
+        "url": "https://hs-admin.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sarwar is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "I worked with Sarwar has been AWESOME, he makes code React/next.Js so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
