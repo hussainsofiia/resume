@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Sarwar Hussain",
+    "name": "Sarwar Dinar",
     "occupation": "CEO of Hs-Developer",
     "description": "I eat, sleep and breathe React/Next.Js",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sarwar! You might also know me as Hs-Developer. I've been coding for over 3 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming company. With this passion & with faster services along with lowest cost ",
-    "contactmessage": "Get in touch with me to be a part of the Hs-Developer!",
-    "email": "hs.developer.pt@gmail.com",
-    "phone": "+88 01737402272",
+    "bio": "Hi there! I am Sarwar and a highly skilled Electrical Technician with expertise in precise electrical assembly, soldering, and wiring. Proficient in operating Wire Terminal Crimping Machines, he excels in repairing cable assemblies, showcasing a deep understanding of electronic components. Committed to safety, Sarwar holds WHMIS certification and maintains clean work environments. His versatility extends to warehouse operations, customer service, and machine operation, demonstrating strong organizational skills. Equipped with a Class 5 driver's license and a personal car, he ensures efficient transportation. With diverse professional experiences, including roles at KS2 Corp INC and Home Depot Canada, Sarwar is detail-oriented, versatile, and fluent in English, Hindi, and Bangla. ",
+    "contactmessage": "Get in touch with me to be a part of the web develop!",
+    "email": "Sarwar.cibc@gmail.com",
+    "phone": "+1 709-7716124",
     "address": {
-      "street": "NizSattish",
-      "city": "Sylhet",
-      "state": "Sylhet",
-      "zip": "3116"
+      "street": "231A Southside rd",
+      "city": "St John's",
+      "state": "NL",
+      "zip": "A1E1A1"
     },
     "website": "https://www.facebook.com/hs.developer.bd",
     "resumedownload": "https://www.linkedin.com/in/sarwar-hussain-dinar-925390212",
@@ -48,40 +48,40 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Malvern International Academy",
-        "degree": "Bachelor of Business (DBS)",
-        "graduated": "July 2017",
+        "school": "Fenchuganj Degree Collage",
+        "degree": "Secondary School Diploma (Verified by World Education Services, March, 2023)",
+        "graduated": "December 2012",
         "description": "Graduated with First Class Honours"
       }
     ],
     "work": [
       {
-        "company": "HS-Developer",
-        "title": "Founder and CEO",
-        "years": "May 2021 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the Hs-Developer as large as possible."
+        "company": "KS2 Corp Inc",
+        "title": "Electronics Assembler",
+        "years": "August-2022 - October 2023",
+        "description": "Electrical Technician Expertise: Proven experience in electrical assembly, soldering, and wiring, with afocus on precision and adherence to assembly drawings and blueprints."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "30%"
       },
       {
         "name": "NextJs",
-        "level": "100%"
+        "level": "30%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "40%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "40%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "40%"
       }
     ]
   },
